@@ -37,6 +37,7 @@ A dark & creamy theme for [VScode](https://marketplace.visualstudio.com/items?it
 ## creamage:
 
 <!-- show png image in the page -->
-    <img src="screenshotunicorn.PNG" alt="creamage" width="1200"/>
+
+![](screenshotunicorn.PNG)
 
 
