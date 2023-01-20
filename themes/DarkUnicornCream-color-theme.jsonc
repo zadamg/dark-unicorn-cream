@@ -234,7 +234,7 @@
 				"punctuation.section.embedded.begin.ruby",
 				"punctuation.definition.template-expression",
 				"entity.name.tag",
-				// SQL and PL/SQL column names
+				// SQL and PL/SQL and PostgreSQL column names
 				"entity.name.column"
 			],
 			"settings": {
@@ -274,7 +274,7 @@
 				"source.css support.function",
 				"source.php support.function",
 				"support.function.magic.python",
-				"entity.other.attribute-name.id",
+				// "entity.other.attribute-name.id",
 				"markup.deleted"
 			],
 			"settings": {

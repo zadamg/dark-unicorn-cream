@@ -35,3 +35,13 @@ A dark & creamy theme for [VScode](https://marketplace.visualstudio.com/items?it
                     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ## hi, fren
+
+<!--  make background black -->
+    
+        <style>
+        body {
+            background-color: black;
+        }
+        </style>
+
+        
