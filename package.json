@@ -1,0 +1,22 @@
+{
+  "name": "dark-unicorn-cream",
+  "displayName": "Dark Unicorn Cream",
+  "description": "Dark Unicorn Cream",
+  "version": "6.6.6",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "publisher": "zadamg",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Unicorn Cream",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DarkUnicornCream-color-theme.jsonc"
+      }
+    ]
+  }
+}
